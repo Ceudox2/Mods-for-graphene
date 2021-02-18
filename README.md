@@ -1,3 +1,0 @@
-# Mods
-Minetest mods
-
