@@ -1,4 +1,3 @@
-3d_armor, areas, castle_weapons, castle_shields, stamina, travelnet, 
-mapfix, mobs animal and monster, nyancat, skindb, smartshop, spawnpoint, 
+3d_armor, areas, castle_weapons, castle_shields, stamina, travelnet, mobs animal and monster, nyancat, skindb, smartshop, spawnpoint, 
 worldedit, unified_inventory, white-list, tpr, xban, xblox, xdecor,
-protector, itemframes, quartz, moreore. 
+protector, moreore. 
