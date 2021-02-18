@@ -1,2 +1,3 @@
-# GodStuff
-Minetest mod for admin.
+# Mods
+Minetest mods
+
